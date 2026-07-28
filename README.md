@@ -2,26 +2,10 @@
 
 Backend REST API for the Job Board application built using Spring Boot.
 
-## Overview
+## Project Overview
 
-This project provides REST APIs to manage job postings. It supports complete CRUD operations for creating, viewing, updating, and deleting job records.
+Developed a full-stack Job Board application that allows users to manage job postings.
 
-## Features
+The backend provides REST APIs for creating, retrieving, updating, and deleting job records. The frontend communicates with these APIs to display and manage job data. The application uses a database for storing job information.
 
-- Create new job postings
-- View all job postings
-- View job details by ID
-- Update existing job details
-- Delete job postings
-
-## Technologies Used
-
-- Java 21
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- REST APIs
-- MySQL
-- Maven
-
-## Project Structure
+## Application Flow
